@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HeadHunterApp</string>
+    <string name="search">Поиск</string>
+    <string name="favourites">Избранное</string>
+    <string name="feedback">Отклики</string>
+    <string name="messages">Сообщения</string>
+    <string name="profile">Профиль</string>
+    <string name="email_error">Вы ввели неверный e-mail</string>
+</resources>
